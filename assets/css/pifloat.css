@@ -1,0 +1,29 @@
+html{
+	background: white url(../img/background.jpg) no-repeat top center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body{
+	background:inherit;
+}
+
+.centered{
+    float: none;
+    margin: 0 auto;
+	text-align: center;
+}
+
+.top {
+margin-top:200px;
+}
+
+.headline{
+	color: white;
+	text-align:center;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	font-size:-webkit-xxx-large;
+}
